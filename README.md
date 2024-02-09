@@ -6,7 +6,6 @@ This project is a simulation of wave movement implemented using Perlin noise in 
 - Realistic wave simulation
 - Smooth transitions and fluid movements
 - Adjustable detail level for controlling the clarity of the simulation
-- Customizable parameters for experimenting with different wave patterns
 - Easy-to-understand codebase for further exploration and modification
 
 ## Usage

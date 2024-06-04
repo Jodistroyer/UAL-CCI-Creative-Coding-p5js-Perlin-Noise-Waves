@@ -20,3 +20,12 @@ This project is a simulation of wave movement implemented using Perlin noise in 
 ## Acknowledgements
 - The p5.js community for their valuable contributions and support.
 - Ken Perlin for his pioneering work on Perlin noise, which forms the foundation of this simulation.
+
+## Authorship
+A code project by Wong Jo-Hann
+
+23/24 Creative Making: Design and Coding Visuals
+
+Creative Computing BSc class
+
+UAL CCI University Of the Arts London
